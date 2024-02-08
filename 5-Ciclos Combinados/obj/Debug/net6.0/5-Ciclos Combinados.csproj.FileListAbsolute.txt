@@ -1,0 +1,14 @@
+C:\Users\admin\Downloads\Curso-MaxiPrograma-Nivel-1\5-Ciclos Combinados\bin\Debug\net6.0\5-Ciclos Combinados.exe
+C:\Users\admin\Downloads\Curso-MaxiPrograma-Nivel-1\5-Ciclos Combinados\bin\Debug\net6.0\5-Ciclos Combinados.deps.json
+C:\Users\admin\Downloads\Curso-MaxiPrograma-Nivel-1\5-Ciclos Combinados\bin\Debug\net6.0\5-Ciclos Combinados.runtimeconfig.json
+C:\Users\admin\Downloads\Curso-MaxiPrograma-Nivel-1\5-Ciclos Combinados\bin\Debug\net6.0\5-Ciclos Combinados.dll
+C:\Users\admin\Downloads\Curso-MaxiPrograma-Nivel-1\5-Ciclos Combinados\bin\Debug\net6.0\5-Ciclos Combinados.pdb
+C:\Users\admin\Downloads\Curso-MaxiPrograma-Nivel-1\5-Ciclos Combinados\obj\Debug\net6.0\5-Ciclos Combinados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Downloads\Curso-MaxiPrograma-Nivel-1\5-Ciclos Combinados\obj\Debug\net6.0\5-Ciclos Combinados.AssemblyInfoInputs.cache
+C:\Users\admin\Downloads\Curso-MaxiPrograma-Nivel-1\5-Ciclos Combinados\obj\Debug\net6.0\5-Ciclos Combinados.AssemblyInfo.cs
+C:\Users\admin\Downloads\Curso-MaxiPrograma-Nivel-1\5-Ciclos Combinados\obj\Debug\net6.0\5-Ciclos Combinados.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\Curso-MaxiPrograma-Nivel-1\5-Ciclos Combinados\obj\Debug\net6.0\5-Ciclos Combinados.dll
+C:\Users\admin\Downloads\Curso-MaxiPrograma-Nivel-1\5-Ciclos Combinados\obj\Debug\net6.0\refint\5-Ciclos Combinados.dll
+C:\Users\admin\Downloads\Curso-MaxiPrograma-Nivel-1\5-Ciclos Combinados\obj\Debug\net6.0\5-Ciclos Combinados.pdb
+C:\Users\admin\Downloads\Curso-MaxiPrograma-Nivel-1\5-Ciclos Combinados\obj\Debug\net6.0\5-Ciclos Combinados.genruntimeconfig.cache
+C:\Users\admin\Downloads\Curso-MaxiPrograma-Nivel-1\5-Ciclos Combinados\obj\Debug\net6.0\ref\5-Ciclos Combinados.dll

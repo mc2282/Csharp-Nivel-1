@@ -1,0 +1,14 @@
+C:\Users\admin\Downloads\Curso-MaxiPrograma-Nivel-1\2-Condicionales\bin\Debug\net6.0\2-Condicionales.exe
+C:\Users\admin\Downloads\Curso-MaxiPrograma-Nivel-1\2-Condicionales\bin\Debug\net6.0\2-Condicionales.deps.json
+C:\Users\admin\Downloads\Curso-MaxiPrograma-Nivel-1\2-Condicionales\bin\Debug\net6.0\2-Condicionales.runtimeconfig.json
+C:\Users\admin\Downloads\Curso-MaxiPrograma-Nivel-1\2-Condicionales\bin\Debug\net6.0\2-Condicionales.dll
+C:\Users\admin\Downloads\Curso-MaxiPrograma-Nivel-1\2-Condicionales\bin\Debug\net6.0\2-Condicionales.pdb
+C:\Users\admin\Downloads\Curso-MaxiPrograma-Nivel-1\2-Condicionales\obj\Debug\net6.0\2-Condicionales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Downloads\Curso-MaxiPrograma-Nivel-1\2-Condicionales\obj\Debug\net6.0\2-Condicionales.AssemblyInfoInputs.cache
+C:\Users\admin\Downloads\Curso-MaxiPrograma-Nivel-1\2-Condicionales\obj\Debug\net6.0\2-Condicionales.AssemblyInfo.cs
+C:\Users\admin\Downloads\Curso-MaxiPrograma-Nivel-1\2-Condicionales\obj\Debug\net6.0\2-Condicionales.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\Curso-MaxiPrograma-Nivel-1\2-Condicionales\obj\Debug\net6.0\2-Condicionales.dll
+C:\Users\admin\Downloads\Curso-MaxiPrograma-Nivel-1\2-Condicionales\obj\Debug\net6.0\refint\2-Condicionales.dll
+C:\Users\admin\Downloads\Curso-MaxiPrograma-Nivel-1\2-Condicionales\obj\Debug\net6.0\2-Condicionales.pdb
+C:\Users\admin\Downloads\Curso-MaxiPrograma-Nivel-1\2-Condicionales\obj\Debug\net6.0\2-Condicionales.genruntimeconfig.cache
+C:\Users\admin\Downloads\Curso-MaxiPrograma-Nivel-1\2-Condicionales\obj\Debug\net6.0\ref\2-Condicionales.dll

@@ -1,0 +1,14 @@
+C:\Users\admin\Downloads\Curso-MaxiPrograma-Nivel-1\3-Condicionales ++\bin\Debug\net6.0\3-Condicionales ++.exe
+C:\Users\admin\Downloads\Curso-MaxiPrograma-Nivel-1\3-Condicionales ++\bin\Debug\net6.0\3-Condicionales ++.deps.json
+C:\Users\admin\Downloads\Curso-MaxiPrograma-Nivel-1\3-Condicionales ++\bin\Debug\net6.0\3-Condicionales ++.runtimeconfig.json
+C:\Users\admin\Downloads\Curso-MaxiPrograma-Nivel-1\3-Condicionales ++\bin\Debug\net6.0\3-Condicionales ++.dll
+C:\Users\admin\Downloads\Curso-MaxiPrograma-Nivel-1\3-Condicionales ++\bin\Debug\net6.0\3-Condicionales ++.pdb
+C:\Users\admin\Downloads\Curso-MaxiPrograma-Nivel-1\3-Condicionales ++\obj\Debug\net6.0\3-Condicionales ++.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Downloads\Curso-MaxiPrograma-Nivel-1\3-Condicionales ++\obj\Debug\net6.0\3-Condicionales ++.AssemblyInfoInputs.cache
+C:\Users\admin\Downloads\Curso-MaxiPrograma-Nivel-1\3-Condicionales ++\obj\Debug\net6.0\3-Condicionales ++.AssemblyInfo.cs
+C:\Users\admin\Downloads\Curso-MaxiPrograma-Nivel-1\3-Condicionales ++\obj\Debug\net6.0\3-Condicionales ++.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\Curso-MaxiPrograma-Nivel-1\3-Condicionales ++\obj\Debug\net6.0\3-Condicionales ++.dll
+C:\Users\admin\Downloads\Curso-MaxiPrograma-Nivel-1\3-Condicionales ++\obj\Debug\net6.0\refint\3-Condicionales ++.dll
+C:\Users\admin\Downloads\Curso-MaxiPrograma-Nivel-1\3-Condicionales ++\obj\Debug\net6.0\3-Condicionales ++.pdb
+C:\Users\admin\Downloads\Curso-MaxiPrograma-Nivel-1\3-Condicionales ++\obj\Debug\net6.0\3-Condicionales ++.genruntimeconfig.cache
+C:\Users\admin\Downloads\Curso-MaxiPrograma-Nivel-1\3-Condicionales ++\obj\Debug\net6.0\ref\3-Condicionales ++.dll

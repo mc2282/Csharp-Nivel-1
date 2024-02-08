@@ -1,0 +1,14 @@
+C:\Users\admin\Downloads\Curso-MaxiPrograma-Nivel-1\1-Primer Contacto\bin\Debug\net6.0\1-Primer Contacto.exe
+C:\Users\admin\Downloads\Curso-MaxiPrograma-Nivel-1\1-Primer Contacto\bin\Debug\net6.0\1-Primer Contacto.deps.json
+C:\Users\admin\Downloads\Curso-MaxiPrograma-Nivel-1\1-Primer Contacto\bin\Debug\net6.0\1-Primer Contacto.runtimeconfig.json
+C:\Users\admin\Downloads\Curso-MaxiPrograma-Nivel-1\1-Primer Contacto\bin\Debug\net6.0\1-Primer Contacto.dll
+C:\Users\admin\Downloads\Curso-MaxiPrograma-Nivel-1\1-Primer Contacto\bin\Debug\net6.0\1-Primer Contacto.pdb
+C:\Users\admin\Downloads\Curso-MaxiPrograma-Nivel-1\1-Primer Contacto\obj\Debug\net6.0\1-Primer Contacto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Downloads\Curso-MaxiPrograma-Nivel-1\1-Primer Contacto\obj\Debug\net6.0\1-Primer Contacto.AssemblyInfoInputs.cache
+C:\Users\admin\Downloads\Curso-MaxiPrograma-Nivel-1\1-Primer Contacto\obj\Debug\net6.0\1-Primer Contacto.AssemblyInfo.cs
+C:\Users\admin\Downloads\Curso-MaxiPrograma-Nivel-1\1-Primer Contacto\obj\Debug\net6.0\1-Primer Contacto.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\Curso-MaxiPrograma-Nivel-1\1-Primer Contacto\obj\Debug\net6.0\1-Primer Contacto.dll
+C:\Users\admin\Downloads\Curso-MaxiPrograma-Nivel-1\1-Primer Contacto\obj\Debug\net6.0\refint\1-Primer Contacto.dll
+C:\Users\admin\Downloads\Curso-MaxiPrograma-Nivel-1\1-Primer Contacto\obj\Debug\net6.0\1-Primer Contacto.pdb
+C:\Users\admin\Downloads\Curso-MaxiPrograma-Nivel-1\1-Primer Contacto\obj\Debug\net6.0\1-Primer Contacto.genruntimeconfig.cache
+C:\Users\admin\Downloads\Curso-MaxiPrograma-Nivel-1\1-Primer Contacto\obj\Debug\net6.0\ref\1-Primer Contacto.dll
