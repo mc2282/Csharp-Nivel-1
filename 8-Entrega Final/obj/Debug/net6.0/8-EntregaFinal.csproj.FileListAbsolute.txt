@@ -1,0 +1,14 @@
+C:\Users\admin\Downloads\Curso-MaxiPrograma-Nivel-1\8-EntregaFinal\bin\Debug\net6.0\8-EntregaFinal.exe
+C:\Users\admin\Downloads\Curso-MaxiPrograma-Nivel-1\8-EntregaFinal\bin\Debug\net6.0\8-EntregaFinal.deps.json
+C:\Users\admin\Downloads\Curso-MaxiPrograma-Nivel-1\8-EntregaFinal\bin\Debug\net6.0\8-EntregaFinal.runtimeconfig.json
+C:\Users\admin\Downloads\Curso-MaxiPrograma-Nivel-1\8-EntregaFinal\bin\Debug\net6.0\8-EntregaFinal.dll
+C:\Users\admin\Downloads\Curso-MaxiPrograma-Nivel-1\8-EntregaFinal\bin\Debug\net6.0\8-EntregaFinal.pdb
+C:\Users\admin\Downloads\Curso-MaxiPrograma-Nivel-1\8-EntregaFinal\obj\Debug\net6.0\8-EntregaFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Downloads\Curso-MaxiPrograma-Nivel-1\8-EntregaFinal\obj\Debug\net6.0\8-EntregaFinal.AssemblyInfoInputs.cache
+C:\Users\admin\Downloads\Curso-MaxiPrograma-Nivel-1\8-EntregaFinal\obj\Debug\net6.0\8-EntregaFinal.AssemblyInfo.cs
+C:\Users\admin\Downloads\Curso-MaxiPrograma-Nivel-1\8-EntregaFinal\obj\Debug\net6.0\8-EntregaFinal.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\Curso-MaxiPrograma-Nivel-1\8-EntregaFinal\obj\Debug\net6.0\8-EntregaFinal.dll
+C:\Users\admin\Downloads\Curso-MaxiPrograma-Nivel-1\8-EntregaFinal\obj\Debug\net6.0\refint\8-EntregaFinal.dll
+C:\Users\admin\Downloads\Curso-MaxiPrograma-Nivel-1\8-EntregaFinal\obj\Debug\net6.0\8-EntregaFinal.pdb
+C:\Users\admin\Downloads\Curso-MaxiPrograma-Nivel-1\8-EntregaFinal\obj\Debug\net6.0\8-EntregaFinal.genruntimeconfig.cache
+C:\Users\admin\Downloads\Curso-MaxiPrograma-Nivel-1\8-EntregaFinal\obj\Debug\net6.0\ref\8-EntregaFinal.dll
